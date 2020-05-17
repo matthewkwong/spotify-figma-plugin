@@ -1,0 +1,7 @@
+{
+  "name": "Music Player Plugin",
+  "id": "842623562056116512",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html"
+}
